@@ -1,4 +1,4 @@
 HandwritingRecognition 
 ======================     
 
-This project is recognize hand written roman numerals using deep learning and neural networks.
+This project recognizes hand written Roman numerals using deep learning and neural networks. We are following steps from www.neuralnetworkanddeeplearning.com.
